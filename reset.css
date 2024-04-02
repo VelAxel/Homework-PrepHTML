@@ -1,0 +1,65 @@
+/* Reset CSS for Visual Studio Code */
+
+/* Reset for body */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'Ubuntu', 'Droid Sans', sans-serif;
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+}
+
+/* Reset for headers */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+/* Reset for paragraphs */
+p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Reset for lists */
+ul, ol {
+    margin: 0;
+    padding: 0;
+}
+
+/* Reset for links */
+a {
+    text-decoration: none;
+}
+
+/* Reset for images */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Reset for tables */
+table {
+    border-collapse: collapse;
+}
+
+/* Reset for forms */
+input, textarea, select, button {
+    font-family: inherit;
+    font-size: inherit;
+}
+
+/* Reset for buttons */
+button {
+    padding: 0;
+    margin: 0;
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+/* Reset for code elements */
+code, pre {
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    font-size: 13px;
+}
